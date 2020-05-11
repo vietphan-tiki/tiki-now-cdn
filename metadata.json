@@ -1,6 +1,6 @@
 {
-	"version": "3.7.2",
-	"minContainerVersion": "1.0",
+	"version": "3.8.2",
+	"minContainerVersion": "1.0.0",
 	"url": {
       "url": "https://github.com/vietphan-tiki/tiki-now-cdn/blob/master/tikinowlandingpage.android.bundle?raw=true",
       "isRelative": false
