@@ -2,7 +2,7 @@
 	"version": "5.9.4",
 	"minContainerVersion": "1.0.0",
 	"url": {
-      "url": "https://github.com/vietphan-tiki/tiki-now-cdn/blob/master/tikinowlandingpage.android.bundle?raw=true",
+      "url": "https://github.com/vietphan-tiki/tiki-now-cdn/blob/master/main.jsbundle?raw=true",
       "isRelative": false
     }
 }
