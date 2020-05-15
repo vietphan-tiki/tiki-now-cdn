@@ -1,0 +1,8 @@
+{
+	"version": "1.2.0",
+	"minContainerVersion": "1.0.0",
+	"url": {
+      "url": "https://github.com/vietphan-tiki/tiki-now-cdn/blob/master/tikinowlandingpage.android.bundle?raw=true",
+      "isRelative": false
+    }
+}
