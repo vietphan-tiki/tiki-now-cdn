@@ -1,8 +1,5 @@
 {
-	"version": "1.2.0",
-	"minContainerVersion": "1.0.0",
-	"url": {
-      "url": "https://github.com/vietphan-tiki/tiki-now-cdn/blob/master/main.jsbundle?raw=true",
-      "isRelative": false
-    }
+  "version": "1.2.1",
+  "minContainerVersion": "1.0",
+  "url": {}
 }
